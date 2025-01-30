@@ -1,6 +1,12 @@
 Changelog
 ---------
 
+1.10.0
+~~~~~
+
+ Changes to make datetime safe compatible in django 5 + Python 3.12
+
+
 1.9.0
 ~~~~~
 
